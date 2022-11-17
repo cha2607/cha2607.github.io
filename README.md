@@ -20,3 +20,15 @@
 - Saturn is the sixth planet from the Sun and the second-largest planet in our solar system. Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth. It has only one-eighth the average density of Earth; however, with its larger volume, Saturn is over 95 times more massive.
 
 ![image](https://user-images.githubusercontent.com/118231410/202324031-c52ae8c4-5077-4759-8bce-227b30463505.png)
+
+5. *Mercury*
+- The smallest planet in our solar system and nearest to the Sun, Mercury is only slightly larger than Earth's Moon. would appear more than three times as large as it does when viewed from Earth, and the sunlight would be as much as seven times brighter. Despite its proximity to the Sun, Mercury is not the hottest planet in our solar system – that title belongs to nearby Venus, thanks to its dense atmosphere.
+
+![image](https://user-images.githubusercontent.com/118231410/202324217-6a289085-e33f-4bf7-8255-03bcf3d442ad.png)
+
+
+6. *Uranus*
+- Uranus is the seventh planet from the Sun, and has the third-largest diameter in our solar system. It was the first planet found with the aid of a telescope, Uranus was discovered in 1781 by astronomer William Herschel, although he originally thought it was either a comet or a star. It was two years later that the object was universally accepted as a new planet, in part because of observations by astronomer Johann Elert Bode. Herschel tried unsuccessfully to name his discovery Georgium Sidus after King George III. Instead, the scientific community accepted Bode's suggestion to name it Uranus, the Greek god of the sky, as suggested by Bode.
+
+![image](https://user-images.githubusercontent.com/118231410/202324571-980ec457-bb36-45a7-8a1e-7a442578f93e.png)
+
