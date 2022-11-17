@@ -10,3 +10,8 @@
 - Mars is the fourth planet from the Sun – a dusty, cold, desert world with a very thin atmosphere. Mars is also a dynamic planet with seasons, polar ice caps, canyons, extinct volcanoes, and evidence that it was even more active in the past. Mars is one of the most explored bodies in our solar system, and it's the only planet where we've sent rovers to roam the alien landscape.
 
 ![image](https://user-images.githubusercontent.com/118231410/202323465-68ffc3fc-7bf8-47ea-b7f2-43b09dadc66f.png)
+
+3. *Jupiter*
+- Jupiter has a long history of surprising scientists – all the way back to 1610 when Galileo Galilei found the first moons beyond Earth. That discovery changed the way we see the universe. Fifth in line from the Sun, Jupiter is, by far, the largest planet in the solar system – more than twice as massive as all the other planets combined.
+
+![image](https://user-images.githubusercontent.com/118231410/202323688-c48bfa2e-023c-4590-a826-3aeffbc494d6.png)
