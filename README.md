@@ -33,4 +33,5 @@
 ![image](https://user-images.githubusercontent.com/118231410/202324571-980ec457-bb36-45a7-8a1e-7a442578f93e.png)
 
 *HERE SOME FACTS ABOUT HOW THE PLANETS WERE FORMED*
+
 Scientists think planets, including the ones in our solar system, likely start off as grains of dust smaller than the width of a human hair. They emerge from the giant, donut-shaped disk of gas and dust that circles young stars. Gravity and other forces cause material within the disk to collide. If the collision is gentle enough, the material fuses, growing like rolling snowballs. Over time, dust particles combine to form pebbles, which evolve into mile-sized rocks. As these planetesimals orbit their star, they clear material from their path, leaving tracks of space empty but for fine dust. At the same time, the star gobbles up nearby gas and pushes more distant material farther away. After billions of years, the disk will have totally transformed, much of it now in the form of new worlds. Watch the video to see this process unfold.
